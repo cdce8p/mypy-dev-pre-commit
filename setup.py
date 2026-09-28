@@ -6,5 +6,5 @@ from setuptools import setup
 setup(
     name='pre_commit_placeholder_package',
     version='0.0.0',
-    install_requires=['mypy-dev==2.4.0a3'],
+    install_requires=['mypy-dev==2.5.0a1'],
 )
